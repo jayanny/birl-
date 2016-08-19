@@ -1,0 +1,20 @@
+HORA DO SHOW
+    MONSTRO a;
+    MONSTRO b;
+    MONSTRO AUX;
+    MONSTRO I;
+    MONSTRO N;
+    a=0;
+    b=1;
+    CE QUER VER ESSA PORRA? ("DIGITE UM NUMERO\n");
+    QUE QUE CE QUER MONSTRAO? ("%d", &N); 
+     CE QUER VER ESSA PORRA? ("SERIE\n");
+    QUE QUE CE QUER MONSTRAO? ("%d", &b); 
+    MAIS QUERO MAIS (I = 0; I < N; I++)
+    AUX= a+b;
+    a=b;
+    b=AUX;
+    CE QUER VER ESSA PORRA? ("%d", AUX);
+    BIRL 
+    BORA CUMPADE 0;
+BIRL
